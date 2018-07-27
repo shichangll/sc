@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-antlr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-apache-bcel.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-apache-bsf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-apache-log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-apache-oro.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-apache-regexp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-apache-resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-apache-xalan2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-bootstrap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-commons-net.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-jai.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-javamail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-jdepend.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-jsch.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-junit4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-netrexx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/java/apache-ant-1.9.13/build/lib/ant-testutil.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
